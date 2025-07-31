@@ -10,11 +10,6 @@ A full-stack real-time chat application built using **Node.js**, **Express**, **
 - Frontend (optional or included) built with modern tools like React
 - Environment variable support for secure credentials
 
-- <img width="1899" height="899" alt="image" src="https://github.com/user-attachments/assets/a7567616-9a85-4155-8150-76138944dd83" />
-- <img width="1906" height="909" alt="image" src="https://github.com/user-attachments/assets/fc967809-a44f-413c-853d-90f3e290e1c7" />
-
-
-
 ## 📁 Project Structure
 CHAT-APPLICATION/
 │
